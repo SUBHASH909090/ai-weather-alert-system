@@ -1,0 +1,9 @@
+{
+  "severity": "Warning",
+  "temperature": 38,
+  "rainfall_mm": 45,
+  "wind_speed_kmh": 55,
+  "weather_condition": "Heavy rainfall with strong winds",
+  "reason": "Heavy rainfall and strong winds may cause waterlogging and travel disruption.",
+  "recommended_action": "Avoid unnecessary travel, stay away from flooded areas, and monitor official weather updates."
+}
